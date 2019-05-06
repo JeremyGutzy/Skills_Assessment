@@ -1,0 +1,9 @@
+[
+    {"title":"JavaScript","subtitle":"","measures":[7.5,10],"markers":[9]},
+    {"title":"SQL","subtitle":"","measures":[8.5,10],"markers":[9.5]},
+    {"title":"C#","subtitle":"","measures":[6.5,10],"markers":[8]},
+    {"title":"ASP.NET","subtitle":"","measures":[5.5,10],"markers":[7]},
+    {"title":"HTML","subtitle":"","measures":[7,10],"markers":[7.5]},
+    {"title":"CSS","subtitle":"","measures":[7,10],"markers":[8]},
+    {"title":"Tableau","subtitle":"","measures":[7.5,10],"markers":[7]}
+]
